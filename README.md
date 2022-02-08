@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devvyas83
+- 👀 I’m interested in Biomedical Engineering.
+- 🌱 I’m currently learning python and Embedded C.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me devvyas83@gmail.com.
